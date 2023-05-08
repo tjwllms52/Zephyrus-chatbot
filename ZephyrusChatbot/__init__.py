@@ -1,1 +1,1 @@
-from CHATBOT.main import *
+from ZephyrusChatbot.main import *
