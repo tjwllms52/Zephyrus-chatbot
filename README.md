@@ -5,5 +5,5 @@ import ZephyrusChatbot as chatbot
 
 while True:
   prompt = input('prompt: ')
-  chatbot.get_response(prompt)
+  print(chatbot.get_response(prompt))
 ```
